@@ -14,14 +14,23 @@
       </iterationEntity>
       <testDataId>Data Files/WebCitas/Usuarios incorrectos</testDataId>
    </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>792d5d65-532e-4d47-9981-7252f925f7fd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebCitas/Usuarios Incorrectos2</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>5b0b3f15-74e9-424b-8f4a-747a09c54ca4</testDataLinkId>
+      <testDataLinkId>792d5d65-532e-4d47-9981-7252f925f7fd</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>﻿Usuario</value>
+      <value>Usuario</value>
       <variableId>34a70125-9df3-4ed9-9fea-1855c15ce65d</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>5b0b3f15-74e9-424b-8f4a-747a09c54ca4</testDataLinkId>
+      <testDataLinkId>792d5d65-532e-4d47-9981-7252f925f7fd</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Password</value>
       <variableId>616e81c1-1525-4c50-870c-9f3d2338df28</variableId>
