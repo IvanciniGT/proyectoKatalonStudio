@@ -8,6 +8,7 @@ Característica: Formulario de login
 	  	Y 			accedo a la página de login
 	 	Cuando 		Pulso el botón de login
 	 	Entonces 	Se muestra el mensaje Login failed
+      Y				Saco una foto
 	    Y 			Cierro el navegador
 
   Esquema del escenario: El sistema no debe permitir acceder con un usuario y contraseña erroneos
@@ -17,6 +18,7 @@ Característica: Formulario de login
       Y  			Escribo en el campo <campo_password> el valor <password>
     	Y 			Pulso el botón de login
     Entonces 	Se muestra el mensaje Login failed
+      Y				Saco una foto
       Y 			Cierro el navegador
       
       Ejemplos:
@@ -32,9 +34,11 @@ Característica: Formulario de login
       Y  			Escribo en el campo <campo_password> el valor <password>
      	Y 			Pulso el botón de login
     Entonces 	Llego a la pantalla de citas
+      Y				Saco una foto
       Y 			Cierro el navegador
       
       Ejemplos:
       	|	campo_usuario | usuario  | campo_password | password             |
       	|	Usuario       | John Doe | Password       | ThisIsNotAPassword   |
+      
       

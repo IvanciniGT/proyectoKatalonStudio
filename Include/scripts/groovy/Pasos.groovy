@@ -78,4 +78,8 @@ class Pasos {
 	def cierro_el_navegador() {
 		WebUI.closeBrowser()
 	}
+	@Then("Saco una foto")
+	def saco_foto() {
+		WebUI.takeFullPageScreenshot()
+	}
 }
