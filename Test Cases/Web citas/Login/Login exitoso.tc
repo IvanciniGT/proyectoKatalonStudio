@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login exitoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9af8d814-27ee-42b3-8750-af8471ef0fb1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c189d14-28ff-40da-a072-d42546947df7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>362c6ad3-5ac6-4b4e-ba67-002f28d6306e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>8c189d14-28ff-40da-a072-d42546947df7</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>362c6ad3-5ac6-4b4e-ba67-002f28d6306e</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

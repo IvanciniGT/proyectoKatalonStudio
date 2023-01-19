@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Usuarios Incorrectos2</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e83a0f9c-c3f8-4a30-8246-ece8533f3986</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Ruina lYwLNkVEads%3D</data>
+   <data>John+Doe lYwLNkVEads%3D</data>
+   <data>Ruina g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Usuario</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Password</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

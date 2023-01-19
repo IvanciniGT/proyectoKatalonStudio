@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login erroneo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89f642c7-2521-45ff-ad50-ef145f13dda6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5b0b3f15-74e9-424b-8f4a-747a09c54ca4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WebCitas/Usuarios incorrectos</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5b0b3f15-74e9-424b-8f4a-747a09c54ca4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>﻿Usuario</value>
+      <variableId>34a70125-9df3-4ed9-9fea-1855c15ce65d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5b0b3f15-74e9-424b-8f4a-747a09c54ca4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>616e81c1-1525-4c50-870c-9f3d2338df28</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ruina'</defaultValue>
+      <description></description>
+      <id>34a70125-9df3-4ed9-9fea-1855c15ce65d</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>'XCisPeRRZXg='</defaultValue>
+      <description></description>
+      <id>616e81c1-1525-4c50-870c-9f3d2338df28</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

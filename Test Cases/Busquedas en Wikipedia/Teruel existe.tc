@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Teruel existe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada072ad-8744-46a2-b9f1-1249ac02ee8f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>986cdaa5-da91-4014-887f-90df6135ddb8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teruel existe'</defaultValue>
+      <description>Texto a introducir al hacer la busqueda en wikipedia</description>
+      <id>986cdaa5-da91-4014-887f-90df6135ddb8</id>
+      <masked>false</masked>
+      <name>texto_busqueda</name>
+   </variable>
+</TestCaseEntity>
